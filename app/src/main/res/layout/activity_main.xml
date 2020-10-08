@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tompoucebackground">
+
+
+
+
+
+
+<LinearLayout
+android:orientation="vertical"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:text="De Officieële Tompouce Eet Handleiding."
+        android:padding="20dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="25sp"
+
+        />
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#ebb0c9"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:fontFamily="sans-serif-medium"
+                android:textColor="@android:color/black"
+                android:padding="5dp"
+                android:textSize="15sp"
+            android:text="1. Eet de verschillende onderdelen apart op. Vergeet niet het lekkerste voor het laatst te bewaren. Wat het lekkerste is, mag je zelf bepalen." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ebb0c9"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@android:color/black"
+            android:padding="5dp"
+            android:textSize="15sp"
+            android:text="2. Haal de bovenkant van de tompouce eraf en smeer de room gelijkmatig op de boven- en de onderkant." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ebb0c9"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@android:color/black"
+            android:padding="5dp"
+            android:textSize="15sp"
+            android:text="3. Leg de tompouce op z’n zij voordat je hem gaat eten. Zo blijft de pudding beter op z’n plaats." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ebb0c9"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@android:color/black"
+            android:padding="5dp"
+            android:textSize="15sp"
+            android:text="4. Prik met je vork loodrecht in de glazuurlaag en schuif het vorkje vervolgens voorzichtig opzij waardoor je door de laag heen snijdt en de room mooi op zijn plek blijft zitten." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ebb0c9"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@android:color/black"
+            android:padding="5dp"
+            android:textSize="15sp"
+            android:text="5. Haal de bovenkant eraf en leg deze onder de onderkant. Zo bereik je alle lagen in een keer." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ebb0c9"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@android:color/black"
+            android:padding="5dp"
+            android:textSize="15sp"
+            android:text="6. Hak met je vorkje kleine vierkantjes uit je tompouce zodat je bord vol ligt met minitompoucen en prik die op je vorkje." />
+
+    </LinearLayout>
+
+        <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Daan©"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true">
+
+            </TextView>
+
+        </RelativeLayout>
+
+</LinearLayout>
+    </LinearLayout>
+
